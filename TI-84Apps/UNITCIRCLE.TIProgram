@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>----FIRST Q-----
+0, 0 (1,0)
+30, pi/6 (sqrt3/2, 1/2)
+45, pi/4 (sqrt2/2, sqrt2/2)
+60, pi/3 (1/2, sqrt3/2)
+90, pi/2 (0,1)
+----SEC Q--------
+120, 2pi/3 (-1/2, sqrt3/2)
+135, 3pi/4 (sqrt-2/2, sqrt2/2)
+150, 5pi/6 (sqrt-3/2), 1/2)
+180, pi,   (-1,0)
+-----3RD Q-------
+210, 7pi/6 (sqrt-3/2, -1/2)
+225, 5pi/4 (sqrt-2/2, sqrt-2/2)
+250, 4pi/3 (-1/2, sqrt-3/2)
+270, 3pi/2 (0,-1)
+------4TH Q-----
+300, 5pi/3 (1/2, sqrt-3/2)
+315, 7pi/4 (sqrt2/2, sqrt-2/2)
+330, 11pi/6 (sqrt3,2, -1/2)
+360 2pi	</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>untitled</string>
+	<key>device type</key>
+	<string>TI-84 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>

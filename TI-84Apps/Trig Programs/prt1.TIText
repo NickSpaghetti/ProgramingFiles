@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>f(x)=5sinx+2 =x-2/5 RD:-[-pi/2,pi/2]
+Df:[-3,7]
+f(x)=2tanx-3 = x+3/2 
+Df: (-inf,inf)
+f(x)=-2cos(3x) =1/3cos(-x/2) RD:[0,pi/3]
+df: [-2,2]
+f(x)=cos(x+2)+1 = cos(x-1)-2
+df:[0,2]
+f(x)=3sin(2x+1) = 1/2sin(x/3)-1 RD:[-3,3]
+df:[-3,3]
+
+cos(tan^1u)=1/sqrt1+u^2
+tan(sin^-1u)=u/sqrt1-u^2
+sin(cos^01u)=sqrt1-u^2
+
+
+
+Tan a = 5/12
+sin B = -1/2
+sin(-5/13)cos(sqrt-3/2)+cos(-12/13)sin(-1/2)
+=5sqrt3+12/26</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>untitled</string>
+	<key>object type</key>
+	<string>Text</string>
+</dict>
+</plist>

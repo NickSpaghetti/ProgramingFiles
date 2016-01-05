@@ -1,0 +1,24 @@
+# "why" is the only word that can be produced if these
+# dice are placed in a fixed order, i.e.:
+#
+# w h y z
+# z z z z
+# z z z z
+# z z z z
+#
+w w w w w w
+h h h h h h
+y y y y y y
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z

@@ -1,0 +1,73 @@
+drop table Flavors cascade constraints;
+drop table Sundae cascade constraints;
+drop table Sizess cascade constraints;
+drop table Dish cascade constraints;
+drop table Ingredients cascade constraints;
+drop table Customer_Rewards cascade constraints;
+
+
+ Create table Flavors
+(
+Flavor_ID number NOT NULL,
+Flavor_Name varchar(2),
+constraint pk_Flavor_ID primary key (Flavor_ID)
+);
+
+Create table Dish
+(
+Dish_ID number NOT NULL,
+Dish_Name varchar(2),
+constraint pk_Dish_ID primary key (Dish_ID)
+);
+
+Create table Sizess
+(
+Size_ID number NOT NULL,
+size_Name varchar(25),
+constraint pk_Size_ID primary key (Size_ID)
+);
+
+
+
+Create Table Ingredients
+(
+Ingredients_ID number NOT NULL,
+Ingredients_Name varchar(2),
+constraint pk_Ingredients_ID primary key (Ingredients_ID)
+);
+
+
+Create table Sundae
+(
+Sundae_ID number NOT NULL,
+Sundae_Name varchar(2),
+Ingredients_ID  number,
+Flavor_ID      number,
+Dish_ID        number,
+Size_ID        number,
+constraint pk_Sundae_ID primary key (Sundae_ID),
+constraint Ingredients_fk_ID 
+  foreign key (Ingredients_ID) references Ingredients (Ingredients_ID),
+constraint Flavor_fk_ID
+  foreign key (Flavor_ID) references Flavor (Flavor_ID),
+constraint Dish_fk_ID
+    foreign key (Dish_ID) references Dish (Dish_ID),
+constraint size_fk_ID 
+    foreign key (Size_ID) references sizess (Size_ID)
+
+);
+
+
+Create table Customer_Rewards
+(
+Customer_Rewards_ID number NOT NULL,
+Customer_FirstName  Varchar(2),
+Customer_LastName   Varchar(2),
+Customer_Address    Varchar(2),
+Customer_Phone		Varchar(2),
+Customer_Points     Number,
+Sundae_ID           Number,
+constraint pk_Customer_Rewards_ID primary key (Customer_Rewards_ID),
+constraint Sundae_fk_ID
+  foreign key (Sundae_ID) references sundae (Sundae_ID)
+);

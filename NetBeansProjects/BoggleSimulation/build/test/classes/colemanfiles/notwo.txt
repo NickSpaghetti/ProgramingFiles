@@ -1,0 +1,24 @@
+# "to,""on," and "i" are in this board,
+# but they are not legal words in the game.
+#
+# t o z z
+# z z z i
+# z z z z
+# o n z z
+#
+t t t t t t
+o o o o o o
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+i i i i i i
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z
+o o o o o o
+n n n n n n
+z z z z z z
+z z z z z z

@@ -1,0 +1,24 @@
+# "acid" and "acidic" are the only words, but one is 
+# a prefix of the other
+#
+# a c i d
+# z z z i
+# z z z c
+# z z z z
+#
+a a a a a a
+c c c c c c
+i i i i i i
+d d d d d d
+z z z z z z
+z z z z z z
+z z z z z z
+i i i i i i
+z z z z z z
+z z z z z z
+z z z z z z
+c c c c c c
+z z z z z z
+z z z z z z
+z z z z z z
+z z z z z z

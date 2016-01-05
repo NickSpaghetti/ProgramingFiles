@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1442775627 source:/Users/nicholascicchetti/Documents/C_Code/Dynamic Arrays/main.c
+	<stdio.h>
+	<stdlib.h>
+

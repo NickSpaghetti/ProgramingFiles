@@ -1,0 +1,24 @@
+# "lull" is a word if you use the 'l' twice,
+# but this is illegal
+#
+# l u q q
+# q l q q
+# q q q q
+# q q q q
+#
+l l l l l l
+u u u u u u
+q q q q q q
+q q q q q q
+q q q q q q
+l l l l l l
+q q q q q q
+q q q q q q
+q q q q q q
+q q q q q q
+q q q q q q
+q q q q q q
+q q q q q q
+q q q q q q
+q q q q q q
+q q q q q q

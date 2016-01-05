@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>f(x)=5sinx+2 =x-2/5 D:(-3,7)
+
+tan(sin^-1u)-u/sqrt1-u^2
+
+Tan a = 5/12
+sin B = -1/2
+sin(-5/13)cos(sqrt-3/2)+cos(-12/13)sin(-1/2)
+=5sqrt3 + 12/26
+
+cos(3pi/8) *2/1 = 3pi/4
++-sqrt 1 + cos(-3pi/4)/2
+
+sin(3theta + pi/18) = 4pi/27, 22pi/27, 40pi/27
+
+csc=-3 = -.34, 1.68
+
+cos^2-sin^2+sin = 0 = 7pi/6, 11pi/6, pi/2
+
+sin(2theta)sin=cos = pi/2, 3pi/2, pi/4, 7pi/4, 3pi/4, 5pi/4
+
+x^2-2sin(2x)=3x 
+x=0
+x=2.15
+
+f(x)=cos(2x) + sin^2x 
+= pi/2, 3pi/2</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>untitled</string>
+	<key>device type</key>
+	<string>TI-84 Plus C Silver Edition</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>

@@ -1,0 +1,53 @@
+Venezuela,Americas
+Uruguay,Americas
+United States,Americas
+U.S. Virgin Islands,Americas
+Turks and Caicos Islands,Americas
+Trinidad and Tobago,Americas
+Suriname,Americas
+Saint Vincent and the Grenadines,Americas
+Saint Pierre and Miquelon,Americas
+Saint Martin,Americas
+Saint Lucia,Americas
+Saint Kitts and Nevis,Americas
+Saint Barth�lemy,Americas
+Puerto Rico,Americas
+Peru,Americas
+Paraguay,Americas
+Panama,Americas
+Nicaragua,Americas
+Netherlands Antilles,Americas
+Montserrat,Americas
+Mexico,Americas
+Martinique,Americas
+Jamaica,Americas
+Honduras,Americas
+Haiti,Americas
+Guyana,Americas
+Guatemala,Americas
+Guadeloupe,Americas
+Grenada,Americas
+Greenland,Americas
+French Guiana,Americas
+Falkland Islands,Americas
+El Salvador,Americas
+Ecuador,Americas
+Dominican Republic,Americas
+Dominica,Americas
+Cuba,Americas
+Costa Rica,Americas
+Colombia,Americas
+Chile,Americas
+Cayman Islands,Americas
+Canada,Americas
+British Virgin Islands,Americas
+Brazil,Americas
+Bolivia,Americas
+Bermuda,Americas
+Belize,Americas
+Barbados,Americas
+Bahamas,Americas
+Aruba,Americas
+Argentina,Americas
+Antigua and Barbuda,Americas
+Anguilla,Americas

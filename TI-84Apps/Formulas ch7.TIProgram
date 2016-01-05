@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cells</key>
+	<array>
+		<dict>
+			<key>column</key>
+			<integer>1</integer>
+			<key>row</key>
+			<integer>1</integer>
+			<key>stringValue</key>
+			<string>a^logaM = M
+
+loga A^r = r
+
+Product = SUM
+Loga(MN)=loga M + loga N
+
+Quotient = DIFFERENCE
+loga(M/N)=logaM - loga N
+
+Power = PRODUCT
+loga M^r = rloga M
+
+Change of Base
+
+loga M = logb M/logb A
+
+Simple Interest
+I=prt
+
+Compound Interest Formula
+A=P(1+r/n)^nt
+
+Coninuous Compounding
+A - Pe^rt
+
+Effective Rate Interest
+Compounding n times per year:
+re=(1+r/n)^n - 1 (1 NOT EXPONENT)
+
+Compounding Continuous:
+re= e^r - 1 (1 NOT EXPONENT)
+
+Present Value Formula
+Compounding n times per year:
+P = A (1 + r/n)^-nt
+
+Compounding Continulous:
+P=Ae^-rt
+
+annually: 1
+Semiannually: 2
+Quarterly: 4
+Monthly : 12
+Daily: 365</string>
+		</dict>
+	</array>
+	<key>device name</key>
+	<string>untitled</string>
+	<key>device type</key>
+	<string>TI-84 Plus</string>
+	<key>isProtected</key>
+	<false/>
+	<key>object type</key>
+	<string>Program</string>
+</dict>
+</plist>
